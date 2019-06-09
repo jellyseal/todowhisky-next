@@ -1,0 +1,28 @@
+{
+  "name": "todowhisky-next",
+  "version": "1.0.0",
+  "description": "A client for todowhisky api writted in using Nextjs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyseal/todowhisky-next.git"
+  },
+  "keywords": [
+    "next",
+    "whisky"
+  ],
+  "author": "Angel Sole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyseal/todowhisky-next/issues"
+  },
+  "homepage": "https://github.com/jellyseal/todowhisky-next#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
