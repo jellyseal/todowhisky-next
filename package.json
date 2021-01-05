@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jellyseal/todowhisky-next#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.0.0",
     "next": "^8.1.0",
     "node-fetch": "^2.6.0",
